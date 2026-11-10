@@ -1,0 +1,62 @@
+[
+  {
+    "publish_date": "2026-11-10",
+    "time": "14:00",
+    "type": "short",
+    "slug": "blood-vessels-wrap-earth",
+    "title": "Your blood vessels could wrap around Earth twice 🌍",
+    "description": "Laid end to end, the blood vessels in a child's body would stretch over 60,000 miles, more than twice around Earth.\nAn adult's network is even longer, and most of it is tiny capillaries.\nSource: https://www.frontiersin.org/articles/10.3389/frym.2019.00151/pdf\n\n#shorts #humanbody #sciencefacts #biology #didyouknow",
+    "video": "queue/blood-vessels-wrap-earth.mp4",
+    "srt": "queue/blood-vessels-wrap-earth_en.srt",
+    "status": "scheduled",
+    "youtube_url": "https://youtube.com/shorts/hnkyaPinCwk"
+  },
+  {
+    "publish_date": "2026-11-11",
+    "time": "14:00",
+    "type": "short",
+    "slug": "venus-day-longer-than-year",
+    "title": "On Venus, a day is longer than a year 🤯",
+    "description": "Venus takes about 243 Earth days to spin once, but only 225 Earth days to orbit the Sun, so its day outlasts its year.\nIt also spins backwards, so the Sun rises in the west and sets in the east.\nSource: https://spaceplace.nasa.gov/all-about-venus/\n\n#shorts #space #venus #astronomy #sciencefacts",
+    "video": "queue/venus-day-longer-than-year.mp4",
+    "srt": "queue/venus-day-longer-than-year_en.srt",
+    "status": "ready",
+    "youtube_url": null
+  },
+  {
+    "publish_date": "2026-11-12",
+    "time": "14:00",
+    "type": "short",
+    "slug": "frog-freezes-solid",
+    "title": "This frog freezes solid and comes back to life 🐸",
+    "description": "Each winter, up to 60% of a wood frog's body freezes solid. Its breathing and heartbeat stop for up to seven months.\nGlucose protects its cells, and in spring it thaws out and comes back to life.\nSource: https://www.nps.gov/dena/learn/nature/amphibians.htm\n\n#shorts #animals #nature #frog #sciencefacts",
+    "video": "queue/frog-freezes-solid.mp4",
+    "srt": "queue/frog-freezes-solid_en.srt",
+    "status": "ready",
+    "youtube_url": null
+  },
+  {
+    "publish_date": "2026-11-13",
+    "time": "14:00",
+    "type": "short",
+    "slug": "pyramid-tallest-3800-years",
+    "title": "This building was the world's tallest for 3,800 years",
+    "description": "The Great Pyramid of Giza, about 482 feet tall when finished, stayed the tallest human-made structure for roughly 3,800 years.\nLincoln Cathedral's spire finally beat it in the 1300s, then collapsed in a storm in 1549.\nSource: https://britannica.com/place/Great-Pyramid-of-Giza\n\n#shorts #history #egypt #pyramids #didyouknow",
+    "video": "queue/pyramid-tallest-3800-years.mp4",
+    "srt": "queue/pyramid-tallest-3800-years_en.srt",
+    "status": "ready",
+    "youtube_url": null
+  },
+  {
+    "publish_date": "2026-11-14",
+    "time": "14:00",
+    "type": "short",
+    "slug": "brain-cant-feel-pain",
+    "title": "Your brain can't feel pain. Here's why 🧠",
+    "description": "Brain tissue has no nociceptors, the sensors that detect pain, which is why some patients stay awake during brain surgery.\nHeadaches come from the structures around the brain: blood vessels, muscles, nerves and the meninges.\nSource: https://brainfacts.org/thinking-sensing-and-behaving/pain/2021/why-doesnt-the-brain-have-nociceptors-020321\n\n#shorts #brain #psychology #neuroscience #sciencefacts",
+    "video": "queue/brain-cant-feel-pain.mp4",
+    "srt": "queue/brain-cant-feel-pain_en.srt",
+    "status": "ready",
+    "youtube_url": null
+  }
+]
